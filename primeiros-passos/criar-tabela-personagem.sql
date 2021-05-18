@@ -12,4 +12,4 @@ CREATE TABLE personagem (
   destaque BOOLEAN,
   nascimento DATE
 
-);
+); 
