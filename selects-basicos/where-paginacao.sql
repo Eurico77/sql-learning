@@ -8,3 +8,5 @@ LIMIT
   10
 OFFSET
   10;
+
+drop database ead;
